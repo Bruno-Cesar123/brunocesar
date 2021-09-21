@@ -4,6 +4,8 @@
 
 Eu sou Bruno, atualmente estudo/programo Front-end com ReactJs/NextJs, também tenho conhecimentos com Back-end com NodeJs.
 
+Busco oportunidades de emprego.
+
 <div>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Cesar123&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Cesar123&layout=compact&theme=dark&langs_count=16" />
