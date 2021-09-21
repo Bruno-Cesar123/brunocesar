@@ -1,8 +1,8 @@
 # Olá, eu sou Bruno Cesar
 
-- Atualmente estudo/programo Front-end com ReactJs/NextJs.
-- Tenho conhecimentos com Back-end com NodeJs.
-- Busco oportunidades de emprego.
+-💻 Front-end com ReactJs/NextJs.
+-💻 Conhecimentos Back-end com NodeJs.
+-🚀 Busco oportunidades de emprego.
 
 ## Status
 
@@ -22,6 +22,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/next.png">
 </div>
 
 ## Social medias
@@ -32,6 +33,7 @@
   <a href="https://github.com/Bruno-Cesar123" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
+##
 
 ![snake gif](https://github.com/Bruno-Cesar123/Bruno-Cesar123/blob/output/github-contribution-grid-snake.svg)
 
