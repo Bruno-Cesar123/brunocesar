@@ -1,5 +1,9 @@
 # Bruno Cesar
 
+## About me
+
+Eu sou Bruno, atualmente estudo/programo Front-end com ReactJs/NextJs, também tenho conhecimentos com Back-end com NodeJs.
+
 <div>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Cesar123&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Cesar123&layout=compact&theme=dark&langs_count=16" />
@@ -18,7 +22,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
 </div>
 
-##
+## Social medias
 
 <div>
   <a href="mailto:brunocesarferreira1999@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
