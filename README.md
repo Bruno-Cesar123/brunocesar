@@ -1,8 +1,8 @@
 # Olá, eu sou Bruno Cesar
 
-Eu sou Bruno, atualmente estudo/programo Front-end com ReactJs/NextJs, também tenho conhecimentos com Back-end com NodeJs.
-
-Busco oportunidades de emprego.
+- Atualmente estudo/programo Front-end com ReactJs/NextJs.
+- Tenho conhecimentos com Back-end com NodeJs.
+- Busco oportunidades de emprego.
 
 ## Status
 
