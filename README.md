@@ -1,7 +1,7 @@
 # Olá, eu sou Bruno Cesar
 
--💻 Front-end com ReactJs/NextJs.
--💻 Conhecimentos Back-end com NodeJs.
+-💻 Front-end com ReactJs/NextJs. <br />
+-💻 Conhecimentos Back-end com NodeJs. <br />
 -🚀 Busco oportunidades de emprego.
 
 ## Status
@@ -22,7 +22,6 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/next.png">
 </div>
 
 ## Social medias
