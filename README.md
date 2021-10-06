@@ -2,7 +2,8 @@
 
 -💻 Front-end com ReactJs/NextJs. <br />
 -💻 Conhecimentos Back-end com NodeJs. <br />
--🚀 Busco oportunidades de emprego.
+-🚀 Busco oportunidades de emprego. <br />
+-➡️<a href="https://bruno-cesar123.github.io/">Acessar portifólio</a>
 
 ## Status
 
