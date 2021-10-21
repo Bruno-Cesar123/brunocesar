@@ -1,9 +1,8 @@
-# Olá, eu sou Bruno Cesar
+<h1>Hi, I'am Bruno Cesar ✌</h1>
 
--💻 Front-end com ReactJs/NextJs. <br />
--💻 Conhecimentos Back-end com NodeJs. <br />
--🚀 Busco oportunidades de emprego. <br />
--➡️<a href="https://bruno-cesar123.github.io/">Acessar portifólio</a>
+-💻 Fullstack developer Jr. Reactjs / Nodejs. <br />
+-🚀 I look for job opportunities. <br />
+-➡️<a href="https://bruno-cesar123.github.io/">My portfolio</a>
 
 ## Status
 
