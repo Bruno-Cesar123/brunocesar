@@ -7,10 +7,8 @@
 ## Status
 
 <div>
-  <a href="https://github.com/Bruno-Cesar123">
-    <img heigth="150em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Cesar123&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img heigth="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Cesar123&layout=compact&theme=dark&langs_count=7"/>
-  </a>
+   <img heigth="150em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Cesar123&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+   <img heigth="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Cesar123&layout=compact&theme=dark&langs_count=7"/>
 </div>
 
 ## Languages and Tools
