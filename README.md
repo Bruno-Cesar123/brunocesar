@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'am Bruno Cesar ✌</h1>
 
 -💻 Fullstack developer Jr. Reactjs / Nodejs. <br />
--🚀 I look for job opportunities. <br />
+
 -➡️<a href="https://bruno-cesar123.github.io/">My portfolio</a>
 
 ## Status
