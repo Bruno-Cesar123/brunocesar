@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'am Bruno Cesar ✌</h1>
+<h1 align="center">Welcome, I'am Bruno Cesar ✌</h1>
 
 -💻 Fullstack developer Jr. Reactjs / Nodejs. <br />
 
