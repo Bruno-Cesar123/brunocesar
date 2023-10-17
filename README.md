@@ -1,6 +1,6 @@
 <h1 align="center">Welcome, I'am Bruno Cesar ✌</h1>
 
--💻 Fullstack developer Jr. Reactjs / Nodejs. <br />
+-💻 Fullstack developer <br />
 
 -➡️<a href="https://bruno-cesar123.github.io/">My portfolio</a>
 
